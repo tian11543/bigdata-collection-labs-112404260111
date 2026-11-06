@@ -129,7 +129,7 @@ select_one()：在循环内部的 row 对象上调用（row.select_one("xxx")）
 
 **截图：** MySQL 终端中的入库前后 `SELECT COUNT(*)`、重跑后的条数，以及 `SELECT ... LIMIT 5` 的结果。
 
-![结果](../images/3.2.png)
+![结果](images/3.2.png)
 
 
 | 项目 | 实际结果 |
