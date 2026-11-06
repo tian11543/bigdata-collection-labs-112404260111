@@ -159,9 +159,9 @@ select_one()：在循环内部的 row 对象上调用（row.select_one("xxx")）
 ![样本1](images/4.1.png)
 ![样本1](images/4.1.2.png)
 ![样本1](images/4.2.png)
-![样本1](images/4.2.1png)
+![样本1](images/4.2.1.png)
 ![样本1](images/4.3.png)
-![样本1](images/4.3.1png)
+![样本1](images/4.3.1.png)
 - 样本1（页码或URL、记录位置）：第 1 页，第 1 条房源
 - 样本2（页码或URL、记录位置）：第 2 页，第 1 条房源（跨页）
 - 样本3（页码或URL、记录位置）：第 2 页，最后一条房源
